@@ -43,7 +43,14 @@ body {
      text-decoration: none;
 }
 
+.jumbotron-bg {
+     background-image: url(./assets/pexels-dayvison-de-oliveira-silva-5696224.jpg);
+     background-attachment: fixed;
+     height: 600px;
+     background-position: center;
+}
+
+
 .jumbotron {
      padding: 2rem 1rem;
-     background-color: #808080;
 }
